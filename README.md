@@ -8,3 +8,5 @@ an emergency bug fix. The article mentions that developers do not like to be "so
 
 
 **Santiago Rendon:** Another thing the article mentioned about the benefits of code review is that having teammates review your code uses peer pressure to the team's advantage. Basically, if a developer knows their code will be reviewed by the team then the developer is more likely to make his code as impecable as possible. This extra effort helps the project go smoothly with less bugs.
+
+**Muhammad Hassan:** The importance of code reviews can't be stressed enough. Out of all the the advantages mentioned in this article, I think code reviews allow us to learn coding from a different, new perspective which is very important in enhancing our coding skills. It hepls us to challenge our existing workflows which eventually leads to productive outcomes.
